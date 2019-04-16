@@ -1,0 +1,58 @@
+.headings {
+	color: #B26E63;
+}
+
+body {
+	background-color: #FCDEBE; 
+	text-align: center;
+	padding-bottom: 50px; padding-top: 50px;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+		
+}
+
+img {
+	 border-radius: 50%; 
+}
+
+p {
+	padding-left: 50px; padding-right: 50px;
+	color: #437C90;
+}
+
+p.attribution {
+	font-size: 11px;
+	color: #A89B9D;
+	text-decoration: none;
+}
+
+a.attribution {
+	text-decoration: none;
+	font-size: 11px;
+	color: #A89B9D;
+}
+a.attribution:hover {
+	color: #FCFC62;
+}
+
+a.choices {
+	font-size: 30px;
+	text-decoration: none;
+	color: #437C90;
+	margin: 20px;
+	
+	
+}
+
+a.choices:hover {
+	color: #B26E63;
+}
+
+a.startOver {
+	font-size: 20px;
+	text-decoration: none;
+	color: #FCA17D;
+}
+
+
+
+
